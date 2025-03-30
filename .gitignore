@@ -1,0 +1,6 @@
+"__pycache__/" 
+"*.log" 
+".DS_Store" 
+"!nse_stock_list.csv" 
+"!stock_screener.py" 
+"!stock_screener_results/" 
